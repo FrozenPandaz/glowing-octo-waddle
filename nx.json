@@ -1,8 +1,8 @@
 {
   "installation": {
-    "version": "21.0.0-rc.2",
+    "version": "20.8.0",
     "plugins": {
-      "@nx/gradle": "21.0.0-rc.2"
+      "@nx/gradle": "20.8.0"
     }
   },
   "nxCloudId": "6815168c3d0e542c423b8301",
