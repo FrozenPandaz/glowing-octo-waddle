@@ -6,7 +6,7 @@
     }
   },
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
-  "nxCloudId": "681514937bd5405a3a3c6fb7",
+  "nxCloudId": "6815168c3d0e542c423b8301",
   "plugins": [
     {
       "plugin": "@nx/gradle",
@@ -26,5 +26,6 @@
       "default",
       "!{projectRoot}/src/test/**/*"
     ]
-  }
+  },
+  "nxCloudUrl": "https://staging.nx.app"
 }
